@@ -1,0 +1,2 @@
+# Minjok_Herald
+ newsapp
